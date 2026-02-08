@@ -77,11 +77,6 @@ npm run dev
 | \`undo\` | Client → Server | User requests to undo the last action. |
 | \`redo\` | Client → Server | User requests to redo the last undone action. |
 
-## 🔮 Future Improvements
-
-- **Persistence**: Save room state to a database (Redis/MongoDB) to persist drawings after server restart.
-- **User Presence**: Show other users' cursors with names.
-- **Multi-Room UI**: Interface to create and join custom named rooms.
 
 ## 📄 License
 
