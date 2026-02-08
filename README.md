@@ -35,7 +35,7 @@ A real-time collaborative whiteboard application built with **React**, **Node.js
 
 ### 1. Clone the Repository
 \`\`\`bash
-git clone https://github.com/yourusername/collab_whiteboard.git
+git clone https://github.com/rrv2004/collab_whiteboard.git
 cd collab_whiteboard
 \`\`\`
 
